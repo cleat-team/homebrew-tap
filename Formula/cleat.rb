@@ -59,8 +59,8 @@
 class Cleat < Formula
   desc "Durable workflow engine that runs workflows compiled to WebAssembly"
   homepage "https://github.com/cleat-team/cleat"
-  url "https://github.com/cleat-team/cleat/archive/refs/tags/v0.3.2.tar.gz"
-  sha256 "535efd20599286c82bf4b29301c07afa2389282ddf02a04c7c58b66933875553"
+  url "https://github.com/cleat-team/cleat/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "b15c0ad5d4e9b26fbbc688b19940cd71540a90e42c86f56cbfe263b625a2d489"
   license "Apache-2.0"
   head "https://github.com/cleat-team/cleat.git", branch: "develop"
 
